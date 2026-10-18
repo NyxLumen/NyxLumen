@@ -26,7 +26,6 @@
   <a href="mailto:ads.as3030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
   <a href="https://leetcode.com/u/coded_digntiy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" /></a>
 
-<a href="https://github.com/NyxLumen"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40NyxLumen-181717.svg?logo=github&amp; variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40NyxLumen-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a>
 <a href="https://twitter.com/AdityaSharmaSMH"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/x/follow/AdityaSharmaSMH.svg?variant=branded&amp;size=sm&amp;mode=dark"><img alt="Twitter / X" src="https://www.shieldcn.dev/x/follow/CODED_DIGNITY.svg?variant=branded&amp;size=sm&amp;mode=light"></picture></a>
 <a href="https://linkedin.com/in/adityasharmahere"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/LinkedIn-%40adityasharmahere-0A66C2.svg?logo=linkedin&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="LinkedIn" src="https://www.shieldcn.dev/badge/LinkedIn-%40adityasharmahere-0A66C2.svg?logo=linkedin&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a>
 
